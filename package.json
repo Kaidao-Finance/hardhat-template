@@ -6,7 +6,6 @@
     "hardhat": "^2.10.2"
   },
   "dependencies": {
-    "@ensdomains/ens-contracts": "^0.0.12",
     "@nomiclabs/hardhat-ethers": "^2.1.1",
     "@openzeppelin/contracts": "^4.7.3",
     "dotenv": "^16.0.1",
